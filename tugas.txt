@@ -1,1 +1,2 @@
 tugas
+kurang folder node_modules
